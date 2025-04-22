@@ -10,3 +10,4 @@ with a keen eye for detail and a problem-solving mindset, I am committed to cont
 - College: City College of Angeles (BSIS)
 # My Projects
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/shekinahdg/shekinahdg/blob/main/Midterm%20Lab%20Task%201.md/Task%201.md)
+- Midterm Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](https://github.com/shekinahdg/shekinahdg/blob/main/Midterm%20Lab%20Task%202/README.md)
