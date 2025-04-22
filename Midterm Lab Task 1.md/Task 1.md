@@ -16,7 +16,7 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
  ![Image](https://github.com/user-attachments/assets/30995fce-32f9-42e4-a65d-08e59bc4bcfd)
 
 ### STEP 4 - Here's the screenshot of my output after I started data Cleaning (See screenshot) 
-<img src="Image/34.png" alt="Alt Text" width="600" height="500">
+![Image](https://github.com/user-attachments/assets/f1b1afcf-da06-42b0-83ce-cd53adc4fcab)
 
 ### Here's the Physical Data Model 
-<img src="Image/56.png" alt="Alt Text" width="600" height="500">
+![Image](https://github.com/user-attachments/assets/2c527723-63b7-4a5f-b4db-dc7c2bf0bf55)
