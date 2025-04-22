@@ -13,10 +13,10 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Mapped the Normalized tables as a Physical Data Model
 ### STEP 3 - Here's the screenshot of my output before I started data cleaning (See screenshot) 
 
- <img src="Image/Raw (1).png" alt="Alt Text" width="600" height="500">
+ <img src="Image/12.png" alt="Alt Text" width="600" height="500">
 
 ### STEP 4 - Here's the screenshot of my output after I started data Cleaning (See screenshot) 
-<img src="Image/Clean.png" alt="Alt Text" width="600" height="500">
+<img src="Image/34.png" alt="Alt Text" width="600" height="500">
 
 ### Here's the Physical Data Model 
-<img src="Image/asdasdasd.png" alt="Alt Text" width="600" height="500">
+<img src="Image/56.png" alt="Alt Text" width="600" height="500">
