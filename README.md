@@ -12,3 +12,8 @@ with a keen eye for detail and a problem-solving mindset, I am committed to cont
 - Midterm Lab Task 1: [Data Cleaning and Preparation using EXCEL](https://github.com/shekinahdg/shekinahdg/blob/main/Midterm%20Lab%20Task%201.md/Task%201.md)
 - Midterm Lab Task 2: [Data Cleaning and Transformation using POWER QUERY](https://github.com/shekinahdg/shekinahdg/blob/main/Midterm%20Lab%20Task%202/README.md)
 - Midterm Lab Task 3: [Creating PIVOT TABLE and DASHBOARD](https://github.com/shekinahdg/shekinahdg/blob/main/Midterm%20Lab%20Task%203/Task%203.md)
+
+### FINAL TASKS
+- Final Task 1: [Events Management DB](https://github.com/shekinahdg/shekinahdg/tree/main/Final%20Lab%20Task%201)
+- Final Task 2: [Transforming ER Model to Relational Tables](https://github.com/shekinahdg/shekinahdg/tree/main/Final%20Lab%20Task%202)
+- Final Task 3: [Table Manipulation](https://github.com/shekinahdg/shekinahdg/tree/main/Final%20Lab%20Task%203)
